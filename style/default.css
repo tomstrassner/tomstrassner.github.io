@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+}
+
+img {
+    border-radius: 50px;
+}
+
+.job_pos {
+    font-style: italic;
+}
+
+.line_intro {
+    font-weight: bold;
+}
+
+.resume_section {
+    margin-top: 40px;
+}
+
+#body_block {
+    display:block;
+    margin-top: 10%;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-size: 28px;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 15px;
+}
+
+#profile_picture {
+    text-align: center;
+}
+
+#footer {
+    text-align: center;
+    margin: 20px;
+}

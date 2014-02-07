@@ -1,0 +1,1 @@
+This small project is a personal online profile and resume.
